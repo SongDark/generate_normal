@@ -15,3 +15,11 @@ python main.py
 GAN | <img src="figs/gan/epoch_0.png" width=280px> | <img src="figs/gan/epoch_25.png" width=280px> | <img src="figs/gan/epoch_99.png" width=280px>
 WGAN | <img src="figs/wgan/epoch_0.png" width=280px> | <img src="figs/wgan/epoch_25.png" width=280px> | <img src="figs/wgan/epoch_99.png" width=280px>
 LSGAN | <img src="figs/lsgan/epoch_0.png" width=280px> | <img src="figs/lsgan/epoch_25.png" width=280px> | <img src="figs/lsgan/epoch_99.png" width=280px>
+
+# GAN Papers
+
+Name | Paper Link 
+:---: | :---: |
+GAN | [Arxiv](https://arxiv.org/abs/1406.2661)
+WGAN | [Arxiv](https://arxiv.org/abs/1701.07875)
+LSGAN| [Arxiv](https://arxiv.org/abs/1611.04076)
